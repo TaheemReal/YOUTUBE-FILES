@@ -1,5 +1,3 @@
-#!/usr/bin/expect
-
 set password "lollipop"
 set expect_path "/usr/bin/expect"  ;# Replace with the actual path to the 'expect' command
 
