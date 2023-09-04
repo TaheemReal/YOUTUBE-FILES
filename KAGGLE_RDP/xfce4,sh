@@ -1,0 +1,2 @@
+startxfce4 &
+./ngrok tcp 5901
