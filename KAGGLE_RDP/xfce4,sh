@@ -1,2 +1,2 @@
-startxfce4 &
-./ngrok tcp 5901
+./ngrok tcp 5901 &
+startxfce4
